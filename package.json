@@ -1,0 +1,22 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello world!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeseungwooo/postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeseungwooo/postman/issues"
+  },
+  "homepage": "https://github.com/leeseungwooo/postman#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
